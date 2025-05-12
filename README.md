@@ -10,6 +10,4 @@ Ensuite dans la barre de recherche de votre navigateur vous tapez l'url suivante
 
 Vous allez être rediriger vers le serveur d'authorisation :  [http://auth-server:9000](http://auth-server:9000)
 
-Connectez-vous et vous aller être rediriger vers la page d'article !
-
-Enjoy 😊
+Connectez-vous et vous aller être rediriger vers la page d'articles.
