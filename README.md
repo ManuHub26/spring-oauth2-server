@@ -1,8 +1,8 @@
-# Serveur sécurisé avec le protocole OAuth2 & OIDC
+# Application intégrant le protocole OAuth2 & OIDC
 
-Application compléte qui intégre le protocole de sécurité et connexion OAuth2 et OIDC, développer avec le project **[Spring Authorization Server](https://docs.spring.io/spring-authorization-server/reference/index.html)**, 
+## Application compléte qui intégre le protocole de sécurité et connexion OAuth2 et OIDC, développer avec le project **[Spring Authorization Server](https://docs.spring.io/spring-authorization-server/reference/index.html)**, 
 
-## Tuto
+### Tuto
 
 Démarer dans un premier temps l'app **authorization-server**, puis le serveur de ressource **resource-server**, et enfin le client en charge d'aller chercher les infos dans le serveur de resource.
 
