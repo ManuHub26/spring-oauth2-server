@@ -8,6 +8,8 @@ Démarer dans un premier temps l'app **authorization-server**, puis le serveur d
 
 Ensuite dans la barre de recherche de votre navigateur vous tapez l'url suivante :  [http://localhost:8080/articles](http://localhost:8080/articles)
 
+**IMPORTANT** il faut mettre sur le fichier host de la machine la ligne suivante : **127.0.0.1 auth-server**
+
 Vous allez être rediriger vers le serveur d'authorisation :  [http://auth-server:9000](http://auth-server:9000)
 
 Connectez-vous et vous aller être rediriger vers la page d'articles.
